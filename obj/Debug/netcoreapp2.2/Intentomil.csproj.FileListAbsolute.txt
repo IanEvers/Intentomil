@@ -1,0 +1,13 @@
+C:\Users\UNO\source\repos\Intentomil\bin\Debug\netcoreapp2.2\Intentomil.deps.json
+C:\Users\UNO\source\repos\Intentomil\bin\Debug\netcoreapp2.2\Intentomil.runtimeconfig.json
+C:\Users\UNO\source\repos\Intentomil\bin\Debug\netcoreapp2.2\Intentomil.runtimeconfig.dev.json
+C:\Users\UNO\source\repos\Intentomil\bin\Debug\netcoreapp2.2\Intentomil.dll
+C:\Users\UNO\source\repos\Intentomil\bin\Debug\netcoreapp2.2\Intentomil.pdb
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.csprojAssemblyReference.cache
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.RazorAssemblyInfo.cache
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.RazorAssemblyInfo.cs
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.AssemblyInfoInputs.cache
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.AssemblyInfo.cs
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.RazorTargetAssemblyInfo.cache
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.dll
+C:\Users\UNO\source\repos\Intentomil\obj\Debug\netcoreapp2.2\Intentomil.pdb
